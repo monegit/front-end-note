@@ -9,6 +9,7 @@
 | 아토믹 디자인 | https://ui.toast.com/weekly-pick/ko_20200213 |
 
 # 디자인 참고
-| 설명   | URL                    |
-| ------ | ---------------------- |
-| UPlabs | https://www.uplabs.com |
+| 설명                  | URL                            |
+| --------------------- | ------------------------------ |
+| UPlabs(템플릿 사이트) | https://www.uplabs.com         |
+| 5%의 마법             | https://ppss.kr/archives/79126 |
