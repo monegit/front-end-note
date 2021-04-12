@@ -2,7 +2,7 @@
 | 설명          | URL                                                          |
 | ------------- | ------------------------------------------------------------ |
 | 코드의 문서화 | https://engineering.linecorp.com/ko/blog/document-engineering-api-documentation/ |
-| BEM(방법론)   | [Link1](https://github.com/monegit/front-end-note/blob/main/방법론/BEM.md)<br />[Link2](https://en.bem.info/methodology/naming-convention/) |
+| BEM(방법론)   | [핵심 내용 번역](https://github.com/monegit/front-end-note/blob/main/방법론/BEM.md)<br />[원문](https://en.bem.info/methodology/naming-convention/) |
 
 # 디자인 패턴
 | 주제          | URL                                          |
